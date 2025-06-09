@@ -1,6 +1,7 @@
-# White-Cat-A-Multifunctional-Pet-Rover
-多功能寵物自走車 - 白貓 Project  
+# 多功能寵物自走車 - 白貓 Project   
+<img src="https://github.com/EmilyChang6/White-Cat-A-Multifunctional-Pet-Rover/blob/main/%E7%99%BD%E8%B2%93.PNG" width="600"/>      
 本專案以 Raspberry Pi 為核心，建立一套嵌入式系統應用，並將其連接至 Ubidots 平台。
+
 ## 主要分為三大功能 (以語音調控)： 
 ### A. 鬧鐘模式  
  (1) 選擇模式 1   
